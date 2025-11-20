@@ -180,8 +180,6 @@ PLAYLISTS = {
 - Face the camera directly
 
 ## 📝 TODO / Future Enhancements
-
-- [ ] Add multi-face detection support
 - [ ] Implement emotion history tracking
 - [ ] Create custom playlist generation based on mood patterns
 - [ ] Add GUI with Tkinter/PyQt
@@ -211,9 +209,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - [@likhithvc21](https://instagram.com/yourinstagram) - likhithvc.is23@bmsce.ac.in
 
-Project Link: [https://github.com/yourusername/YOLOv11-emotion-music-player](https://github.com/yourusername/YOLOv11-emotion-music-player)
+Project Link: [https://github.com/Likhithvc/YOLOv11-emotion-music-player](https://github.com/yourusername/YOLOv11-emotion-music-player)
 
 ---
 
