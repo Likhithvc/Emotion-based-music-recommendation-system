@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@likhithvc21](https://instagram.com/likhithvc21) - likhithvc.is23@bmsce.ac.in
 
-Project Link: [https://github.com/Likhithvc/YOLOv11-emotion-music-player](https://github.com/yourusername/YOLOv11-emotion-music-player)
+Project Link: [https://github.com/Likhithvc/Emotion-based-music-recommendation-system](https://github.com/yourusername/YOLOv11-emotion-music-player)
 
 ---
 
