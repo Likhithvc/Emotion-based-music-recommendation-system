@@ -166,7 +166,9 @@ credentials.json
 # ============================================================================
 
 # YOLO model files (can be large, re-download or use Git LFS if needed)
+# Exception: best.pt is included in the repository
 *.pt
+!best.pt
 *.pth
 *.weights
 *.onnx

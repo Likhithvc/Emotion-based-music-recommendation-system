@@ -67,9 +67,10 @@ This project combines computer vision and music streaming to create an intellige
    pip install -r requirements.txt
    ```
 
-4. **Download/Place YOLOv11 Model**
-   - Place your trained `best.pt` model file in the project root
-   - Or update `MODEL_PATH` in `config.py` to point to your model location
+4. **YOLOv11 Model**
+   - The pre-trained `best.pt` model is included in this repository
+   - No additional download required!
+   - (Optional) You can replace it with your own trained model and update `MODEL_PATH` in `config.py`
 
 5. **Configure Spotify API**
    - Create a Spotify Developer App at [Spotify Dashboard](https://developer.spotify.com/dashboard)
@@ -115,7 +116,7 @@ YOLOv11/
 ├── config.py              # Model and emotion configuration
 ├── spotify_config.py      # Spotify API credentials (⚠️ DO NOT COMMIT)
 ├── requirements.txt       # Python dependencies
-├── best.pt               # Trained YOLOv11 model (⚠️ DO NOT COMMIT if large)
+├── best.pt               # Pre-trained YOLOv11 emotion detection model (included)
 │
 ├── utils/
 │   ├── camera.py         # Camera handling and YOLO detection
