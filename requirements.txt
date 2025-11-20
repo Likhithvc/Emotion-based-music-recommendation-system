@@ -1,0 +1,5 @@
+ultralytics>=8.0.0
+opencv-python
+spotipy>=2.22.1
+pyyaml
+numpy

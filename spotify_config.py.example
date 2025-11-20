@@ -1,0 +1,14 @@
+# spotify_config.py.example
+# 
+# Copy this file to 'spotify_config.py' and fill in your actual Spotify credentials
+# DO NOT commit spotify_config.py with real credentials!
+
+CLIENT_ID = "your_spotify_client_id_here"
+CLIENT_SECRET = "your_spotify_client_secret_here"
+REDIRECT_URI = "http://127.0.0.1:8080/callback"
+
+# How to get credentials:
+# 1. Go to https://developer.spotify.com/dashboard
+# 2. Create a new app
+# 3. Copy the Client ID and Client Secret
+# 4. Add the REDIRECT_URI to your app's Redirect URIs in settings
